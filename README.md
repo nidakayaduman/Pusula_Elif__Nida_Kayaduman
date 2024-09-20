@@ -30,6 +30,7 @@ This will install all the required libraries.
 Step 3: Run the Jupyter Notebook
 
 Open Jupyter Notebook and run the file. Execute each cell step-by-step to see the data analysis and preprocessing steps.
+Make sure to update the file paths in the code according to your system.
 
 
 Step 4: View the Processed Data
